@@ -49,9 +49,11 @@ I'm a self-taught passionate FrontEnd and BackEnd Coder from India 🇮🇳 aka
 <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4F44D6&logo=Visual Studio Code&style=for-the-badge"/>
     </a>
+ <br>
     <a href="https://www.gitpod.io">
       <img src="https://img.shields.io/badge/Supported%20by-GitPod.io%20%E2%86%92-gray.svg?colorA=2c333b&colorB=FF8E2B&logo=GITPOD&logoColor=white&style=for-the-badge"/>
     </a>
+ <br>
 <a href="https://github.com/AdityaCodes45">
       <img src="https://img.shields.io/badge/Supported%20by-Github.com%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=GIThub&style=for-the-badge"/>
     </a>
