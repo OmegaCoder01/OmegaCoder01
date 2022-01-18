@@ -45,10 +45,10 @@ I'm a self-taught passionate FrontEnd and BackEnd Coder aka
       <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=Css3&logoColor=white&style=for-the-badge"/>
     </a>
 <a href="https://github.com/AdityaCodes45">
-      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=Javascript&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=ff8243&logo=Javascript&logoColor=white&style=for-the-badge"/>
     </a>
 <a href="https://github.com/AdityaCodes45">
-      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=FEE715F&logo=Java&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=fdde6c&logo=Java&logoColor=white&style=for-the-badge"/>
     </a>
 </p>
 
