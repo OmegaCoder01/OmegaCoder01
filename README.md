@@ -11,10 +11,10 @@ I'm a self-taught passionate FrontEnd and BackEnd Coder aka
 
 <p align="center">
 <a href="https://github.com/OmegaCoder01">
-      <img src="https://img.shields.io/badge/-Omega%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&logo=GitHub&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4F44D6&logo=GitHub&style=for-the-badge"/>
     </a>
     <a href="https://www.gitpod.io">
-      <img src="https://img.shields.io/badge/-Coder%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&logo=YouTube&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=YouTube&logoColor=white&style=for-the-badge"/>
     </a>
   </p>
 
@@ -36,19 +36,19 @@ I'm a self-taught passionate FrontEnd and BackEnd Coder aka
 
 <p align="left">
 <a href="https://code.visualstudio.com/">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4F44D6&logo=Python&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Python%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4F44D6&logo=Python&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://www.gitpod.io">
-      <img src="https://img.shields.io/badge/Supported%20by-GitPod%20%E2%86%92-gray.svg?colorA=2c333b&colorB=FF8E2B&logo=Html5&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Html%20%E2%86%92-gray.svg?colorA=2c333b&colorB=FF8E2B&logo=Html5&logoColor=white&style=for-the-badge"/>
     </a>
 <a href="https://github.com/AdityaCodes45">
-      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=Css3&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Css%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=Css3&logoColor=white&style=for-the-badge"/>
     </a>
 <a href="https://github.com/AdityaCodes45">
-      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=ff8243&logo=Javascript&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-JS%20%E2%86%92-gray.svg?colorA=2c333b&colorB=007FFF&logo=Javascript&logoColor=white&style=for-the-badge"/>
     </a>
 <a href="https://github.com/AdityaCodes45">
-      <img src="https://img.shields.io/badge/Supported%20by-Github%20%E2%86%92-gray.svg?colorA=2c333b&colorB=fdde6c&logo=Java&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Bootstrap%20%E2%86%92-gray.svg?colorA=2c333b&colorB=fdde6c&logo=bootstrap&logoColor=white&style=for-the-badge"/>
     </a>
 </p>
 
@@ -91,8 +91,14 @@ I'm a self-taught passionate FrontEnd and BackEnd Coder aka
 <a href="https://github.com/AdityaCodes45">
       <img src="https://img.shields.io/badge/Connected -Patreon%20%E2%86%92-gray.svg?colorA=2c333b&colorB=F96854&logo=Patreon&logoColor=white&style=for-the-badge"/>
     </a>
-  </p>
+</p>
 
+#### Donate Me 
+<p align="left">
+<a href="https://code.visualstudio.com/">
+      <img src="https://img.shields.io/badge/ -Buy me a Coffee%20%E2%86%92-gray.svg?colorA=2c333b&colorB=fada5f&logo=buy me a coffee&style=for-the-badge"/>
+    </a>
+</p>
 
 <!---
 AdityaCodes45/AdityaCodes45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
