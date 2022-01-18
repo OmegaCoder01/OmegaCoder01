@@ -72,7 +72,14 @@ I'm a self-taught passionate FrontEnd and BackEnd Coder aka
 <br>
 
 #### Connect with Me
-
+<p align="left">
+<a href="https://code.visualstudio.com/">
+      <img src="https://img.shields.io/badge/Connected -Twitter%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4F44D6&logo=Twitter&style=for-the-badge"/>
+    </a>
+<a href="https://github.com/AdityaCodes45">
+      <img src="https://img.shields.io/badge/Connected -Patreon%20%E2%86%92-gray.svg?colorA=2c333b&colorB=4CAF50&logo=Patreon&style=for-the-badge"/>
+    </a>
+  </p>
 
 
 <!---
