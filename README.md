@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/AdityaCodes45/AdityaCodes45/blob/beb9ffd580424d3b13d818fc4592d52c9883a679/Assets/IMG_20210706_144255-removebg.png"/>
+ <img width="100px" src="https://github.com/OmegaCoder01/OmegaCoder01/blob/8c51f2d0dadf19661b14965584094eb1705991d8/Assets/azurepipelines.svg"/>
 <br />
 
 I'm a self-taught passionate FrontEnd and BackEnd Coder aka
